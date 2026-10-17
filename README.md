@@ -1,1 +1,1 @@
-# simple-crm-lite
+# simple-crm-lite CI
